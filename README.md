@@ -1,30 +1,130 @@
 # MyPortfolio
-# Spotify-Clone
-Spotify Clone is a web application developed using HTML, CSS, and JavaScript. 
- This project serves as a learning exercise and a demonstration of front-end development skills.
+/* Header
+--------------------------------------------------
 
-## Features: 
-- 1.User-friendly interface: The application provides an intuitive and visually appealing interface, mimicking the design and layout of Spotify, allowing users to easily navigate and interact with the various features.
-- 2.Song playback: Users can browse and search for their favorite songs and artists, and play the tracks directly within the application. The player includes controls for play, pause, next, and previous tracks.
--  3.Playlists: Users can create and manage personalized playlists, add songs to existing playlists, and delete unwanted songs. The playlists are dynamically updated, reflecting the changes made by the user.
--  4.Discover new music: The application incorporates a recommendation system that suggests songs and artists based on the user's listening history and preferences. This feature helps users explore new music that aligns with their tastes.
--   5.Responsive design: The Spotify Clone is built with responsive design principles, ensuring optimal viewing and interaction experiences across a variety of devices, including desktops, tablets, and mobile phones.
+Developer
 
-## How to Use:
-- 1.Clone this repository to your local machine.
-- 2.Open the index.html file in your preferred web browser.
-- 3.Explore the Spotify Clone interface and its various features.
-- 4.Use the search bar to find your favorite songs and artists.
-- 5.Create and manage playlists by clicking on the "Create Playlist" button.
-- 6.Play and control songs using the player at the bottom of the screen.
-- 7.Enjoy discovering new music and creating personalized playlists!
+Home
+About
+Qualification
+Services
+Projects
+Contact
 
-## Technologies Used:
-- HTML: Used for structuring the web pages and organizing the content.
-- CSS: Used for styling and visual enhancements, providing an appealing user interface.
-- JavaScript: Used for implementing interactive features, handling user actions, and dynamically updating the content.
+/* Hero
+--------------------------------------------------
 
-## Contributions :
-Contributions to this project are welcome! If you encounter any issues, have suggestions for improvements, or want to add new features, please feel free to open an issue or submit a pull request. Let's make Spotify Clone even better together!
+Hi, I am Vaibhav,<br>Web Developer.
 
-I hope you enjoy exploring and using Spotify Clone! Your feedback and contributions are highly appreciated. If you have any questions or need further assistance, please don't hesitate to reach out. Happy listening!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+Assumenda voluptates ad numquam, officiis accusamus similique 
+voluptate! Sint corrupti soluta, expedita dolores.
+
+07
+Years<br>Experience
+
+20+
+Projects<br>Completed
+
+03+ 
+Companies<br> Worked
+
+
+/* About
+--------------------------------------------------
+
+About Me
+Who am I
+
+I'm a Professional and Experienced Web Developer.
+
+Know More
+
+Technologies I've been working with:
+
+Backend
+
+Python
+PHP
+Node.js
+Firebase
+MongoDB
+MySQL
+
+Frontend
+HTML
+CSS/Sass
+JavaScript
+Bootstrap
+React
+Vue.js
+
+/* Qualification
+--------------------------------------------------
+
+Qualification
+Experience & Education
+
+
+- Professional Experience
+
+Web Developer at Youtube || Frontend Lead at Facebook || 
+UI/UX Designer at Pinterest
+
+Lorem ipsum dolor sit amet consectetur. 
+Facilisi vitae bibendum praesent sodales
+urna vel molestie neque augue.
+
+2021 - Present || 2019 - 2021 || 2017 - 2019
+
+- Education
+
+UI/UX Designer || Master In Web Development || Software Engineer
+2017 - 2018 || 2014 - 2016 || 2010 - 2014
+
+See my full resume
+Resume
+
+
+/* Projects
+--------------------------------------------------
+
+Projects
+My recent work
+
+
+Agency Website || Crypto Application || Ecommerce Website
+
+Lorem ipsum dolor sit amet consectetur 
+adipisicing elit. Facere,esse ullam 
+nemo velit voluptatum excepturi.
+
+View Project
+
+
+
+
+/* Contact 
+--------------------------------------------------
+
+Interested in working together? Let's talk
+
+Lorem ipsum dolor sit amet consectetur adipisicing 
+elit. Distinctio ipsa ut libero, eligendi
+quis ipsum excepturi reprehenderit maxime.
+
+Get in touch
+
+/* Footer
+--------------------------------------------------
+Follow Me
+- Facebook
+- Instagram
+- Twitter
+- Github
+
+Email Me
+contact@dave.com
+
+Call Me
+(936) 789 - 054
