@@ -13,7 +13,7 @@ Contact
 /* Hero
 --------------------------------------------------
 
-Hi, I am Dave,<br>Web Developer.
+Hi, I am Vaibhav,<br>Web Developer.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
 Assumenda voluptates ad numquam, officiis accusamus similique 
@@ -36,12 +36,6 @@ About Me
 Who am I
 
 I'm a Professional and Experienced Web Developer.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-Assumenda voluptates ad numquam,officiis accusamus similique 
-voluptate! Sint corrupti soluta, expedita dolores. Similique 
-odit officia quisquam itaque, distinctio quas odio dolor porro
-corporis facilis.
 
 Know More
 
@@ -90,16 +84,6 @@ UI/UX Designer || Master In Web Development || Software Engineer
 See my full resume
 Resume
 
-/* Services
---------------------------------------------------
-
-Services
-What I do
-
-Frontend<br>Development || Backend<br> Development || UI/UX<br> Design
-
-Know More
-
 
 /* Projects
 --------------------------------------------------
@@ -117,23 +101,7 @@ nemo velit voluptatum excepturi.
 View Project
 
 
-/* Testimonials
---------------------------------------------------
 
-Testimonialss
-What my clients say
-
-Lorem ipsum dolor sit amet consectetur. Dignissim
-tincidunt egestas vitae porttitor nulla gravida commodo.
-
-Natasha Smith
-UI/UX Designer at Dribbble
-
-John Clarke
-Web Developer at Facebook
-
-Emily Walker
-Backend Developer at Google
 
 /* Contact 
 --------------------------------------------------
